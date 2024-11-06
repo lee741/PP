@@ -13,7 +13,11 @@ function getBotResponse(input) {
         return "Hello there!";
     } else if (input == "goodbye") {
         return "Talk to you later!";
-    } else {
+    }
+    else if (input.includes('how are you')) {
+        return "I'm just a bot, but I'm doing great! How about you?";
+    } 
+    else {
         return "Try asking something else!";
     }
 }
