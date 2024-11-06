@@ -11,7 +11,7 @@ function getBotResponse(input) {
     // Simple responses
     if (input == "hello") {
         return "Hello there!";
-    } else if (input == "goodbye") {
+    } else if (input.includes('bye')) {
         return "Talk to you later!";
     }
     else if (input.includes('how are you')) {
