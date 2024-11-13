@@ -10,6 +10,8 @@ About Page: Explicit overview of my background, skills, and experience.
 Activities: A showcase of my notable achievements, including certificate and company links.
 Contact: Contact form and social media links for easy communication.
 
+
+
 Technologies Used
 
 HTML5: For the structure and layout of the website.
