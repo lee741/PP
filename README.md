@@ -7,7 +7,9 @@ Features
 
 Home Page: Brief introduction of my professional career with external links to more detailed information. 
 About Page: Explicit overview of my background, skills, and experience.
+
 Activities: A showcase of my notable achievements, including certificate and company links.
+
 Contact: Contact form and social media links for easy communication.
 
 
@@ -15,18 +17,25 @@ Contact: Contact form and social media links for easy communication.
 Technologies Used
 
 HTML5: For the structure and layout of the website.
+
 CSS3: For styling and responsive design.
+
 JavaScript: For interactive features and form validation.
+
 Responsive Design: Using media queries to make the website mobile-friendly.
+
 FontAwesome: For icons used in the contact section and navigation.
+
 Google Fonts: For custom fonts.
+
+
 Installation
 To view or modify the website locally, follow these steps:
 
-Clone the Repository:
 
-bash
-Copy code
+Clone this repository to your local machine:
+
+1. Clone the Repository:
 git clone https://github.com/yourusername/portfolio.git
 Navigate to the project folder:
 
