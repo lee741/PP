@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Welcome to my personal portfolio! This project showcases my skills, experience, and the work I've done in the field of [Your Field, e.g., Web Development, Design, Graphic Design, Software Engineering, etc.].
+Welcome to my personal portfolio! This project showcases my skills, experience, and the work I have done.
 
 ## Table of Contents
 
@@ -10,8 +10,7 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+7. [Contact](#contact)
 
 ---
 
@@ -30,11 +29,9 @@ The site is built to be responsive and visually appealing, making it easy for po
 
 ## Technologies Used
 
-- **HTML5** - for structuring the website
-- **CSS3** - for styling the layout and design
+- **HTML** - for structuring the website
+- **CSS** - for styling the layout and design
 - **JavaScript** - for interactive elements and animations
-- **[React](https://reactjs.org/)** (optional) - for a dynamic user interface
-- **[Bootstrap](https://getbootstrap.com/)** (optional) - for responsive design
 - **[Node.js](https://nodejs.org/)** (optional) - for backend if applicable
 - **[Git](https://git-scm.com/)** and **[GitHub](https://github.com/)** for version control and code hosting
 
@@ -111,17 +108,9 @@ I welcome contributions! If you'd like to contribute to this project, feel free 
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 
-Feel free to reach out to me for inquiries, collaborations, or feedback!
+Reach out to me to collaborate,inquire or provide feedback!
 
 - **Email**: [drawhandler@gmail.com](mailto:drawhandler@gmail.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- **GitHub**: [your-github-profile](https://github.com/your-github-profile/)
-- **Website**: [your-portfolio-link](https://www.your-portfolio-link.com/)
+- **GitHub**: [your-github-profile](https://github.com/lee741)
