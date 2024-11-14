@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out to me for inquiries, collaborations, or feedback!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [drawhandler@gmail.com](mailto:drawhandler@gmail.com)
 - **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
 - **GitHub**: [your-github-profile](https://github.com/your-github-profile/)
 - **Website**: [your-portfolio-link](https://www.your-portfolio-link.com/)
