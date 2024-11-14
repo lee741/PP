@@ -9,7 +9,7 @@ function getBotResponse(input) {
     }
 
     // Simple responses
-    if (input == "hello") {
+    else if (input == "hello") {
         return "Hello there!";
     } else if (input.includes('bye')) {
         return "Talk to you later!";
